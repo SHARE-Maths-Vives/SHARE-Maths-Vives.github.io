@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ with .Params.image }}
+  <div class="section-hero">
+    <img src="{{ . }}" alt="{{ $.Title }}">
+  </div>
+{{ end }}
+
+<h1 class="page-title">{{ .Title }}</h1>
+
+{{ .Content }}
+
+<!-- {{ range .Pages }}
+  <article>
+    <h2>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+  </article>
+{{ end }} -->
+
+{{ end }}

@@ -1,0 +1,66 @@
+{{- $s := site.Params }}
+{{- $p := .Params }}
+{{- $codeBlockConfig := partial "func/getCodeBlockSettings" . }}
+
+<!DOCTYPE html>
+<html
+  lang="{{ .Lang }}"
+  data-figures="{{ $p.figurePositionShow }}"
+  {{ if .IsPage }}class="page"{{ else if .IsHome }}class="home"{{ end }}
+  {{ with $s.enforceLightMode }}data-mode="lit"{{ end }}
+  {{ with $s.enforceDarkMode }}data-mode="dim"{{ end }}
+>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+
+  {{ partial "head" . }}
+  {{ partial "hooks/head-end" . }}
+
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+
+</head>
+
+<body
+  id="documentTop"
+  data-lang="{{ .Lang }}"
+  data-code="{{ $codeBlockConfig.max }}"
+  data-lines="{{ $codeBlockConfig.lines }}"
+>
+
+  {{ partialCached "scripts/google/tag-manager" (dict "noscript" true) }}
+
+  <!-- Bande noire du haut -->
+  <div class="top-black-bar"></div>
+
+  <!-- Banderole blanche -->
+  <!-- {{ partial "top-banner.html" . }} -->
+
+  <!-- Menu -->
+  <div class="menu-wrapper">
+    {{ partial "header.html" . }}
+  </div>
+
+  <!-- CONTENU PAGE -->
+  <main>
+    <div class="post_body">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </main>
+
+  <!-- Sidebar flottante -->
+  <!--   <div id="floating-layer">
+    {{ partial "sidebar.html" . }}
+  </div> -->
+
+  {{ partialCached "icons" . }}
+  {{ partialCached "footer" . }}
+  {{ partialCached "scripts/index" . }}
+  {{ partialCached "hooks/body-end" . }}
+  {{ if .Param "math" }}
+    {{ partialCached "math.html" . }}
+  {{ end }}
+
+</body>
+</html>

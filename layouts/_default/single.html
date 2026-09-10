@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+{{ with .Params.image }}
+  <div class="page-hero">
+    <img src="{{ . }}" alt="{{ $.Title }}">
+  </div>
+{{ end }}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ end }}

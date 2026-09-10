@@ -1,0 +1,78 @@
+baseURL = "https://SHARE-Maths-Vives.github.io/"
+publishDir = "docs"
+theme = "hugo-clarity"
+tableOfContents=true
+
+# languages
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = true
+[languages]
+    [languages.fr]
+      disabled = false
+      languageCode = 'fr'
+      languageName = 'Français'
+      weight = 1
+      [[languages.fr.menu.main]]
+        identifier = "accueil"
+        name = "SHARE"
+        url = "/fr"
+        weight = 10
+      [[languages.fr.menu.main]]
+        identifier = "projet"
+        name = "Projet"
+        url = "/fr/project"
+        weight = 20
+      [[languages.fr.menu.main]]
+        identifier = "resultats"
+        name = "Résultats"
+        url = "/fr/results"
+        weight = 30
+      [[languages.fr.menu.main]]
+        name = "🇬🇧 en"
+        weight = 99
+        url = "../en"
+    [languages.en]
+      disabled = false
+      languageCode = 'en'
+      languageName = 'English'
+      weight = 2
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "SHARE"
+        url = "/en"
+        weight = 10
+      [[languages.en.menu.main]]
+        identifier = "project"
+        name = "Project"
+        url = "/en/project"
+        weight = 20
+      [[languages.en.menu.main]]
+        identifier = "results"
+        name = "Results"
+        weight = 30
+        url = "/en/results"
+      [[languages.en.menu.main]]
+        name = "🇫🇷 fr"
+        weight = 99
+        url = "../fr"
+      
+[markup]
+  [markup.goldmark]
+    duplicateResourceFiles = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$', '$']]
+    [markup.goldmark.renderer]
+      unsafe = true
+          
+[params]
+  showDate = false
+  showReadingTime = false
+  showShare = false
+  customCSS = ["css/style.css"]
+  math = false
+
+
