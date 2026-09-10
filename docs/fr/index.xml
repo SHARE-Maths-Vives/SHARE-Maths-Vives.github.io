@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>share on </title>
+    <link>https://SHARE-Maths-Vives.github.io/fr/</link>
+    <description>Recent content in share on </description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <atom:link href="https://SHARE-Maths-Vives.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le projet SHARE</title>
+      <link>https://SHARE-Maths-Vives.github.io/fr/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://SHARE-Maths-Vives.github.io/fr/project/</guid>
+      <description>&lt;p style=&#34;text-align: center&#34;&gt;&#xD;&#xA;&lt;a href=&#34;https://SHARE-Math-Vives.github.io/fr/&#34;&gt; &lt;img src=&#34;https://SHARE-Maths-Vives.github.io/images/logo/logo-SHARE.svg&#34; width=&#34;30%&#34;&gt; &lt;/a&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The SHARE project vise à&amp;hellip;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;XXX&lt;/p&gt;&#xA;&lt;p style=&#34;text-align: center;color: gray;&#34;&gt;&#xD;&#xA;&lt;img src=&#34;https://SHARE-Maths-Vives.github.io/images/logo/logo-SHARE.svg&#34; width=&#34;10%&#34;&gt; &lt;/br&gt;&#xD;&#xA;We need to make a better logo&#xD;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resultats</title>
+      <link>https://SHARE-Maths-Vives.github.io/fr/results/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://SHARE-Maths-Vives.github.io/fr/results/</guid>
+      <description>&lt;p&gt;XXX&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
