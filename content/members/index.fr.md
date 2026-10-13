@@ -3,20 +3,23 @@ title: "Membres"
 slug: members
 output: pdf_document
 ---
+
 <style>
 .membres {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1.5rem 2rem;
+  margin-left: 2rem;
+  margin-bottom: 2.5rem;
 }
 .membre {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 1.25rem;
 }
 .membre img {
-  width: 90px;
-  height: 90px;
+  width: 180px;
+  height: 180px;
   object-fit: cover;
   border-radius: 50%;
   flex-shrink: 0;
@@ -24,8 +27,8 @@ output: pdf_document
 .membre p {
   margin: 0;
 }
-@media (max-width: 600px) {
-  .membres { grid-template-columns: 1fr; }
+@media (max-width: 700px) {
+  .membres { grid-template-columns: 1fr; margin-left: 0; }
 }
 </style>
 
