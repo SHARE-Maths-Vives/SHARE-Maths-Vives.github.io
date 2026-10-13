@@ -28,6 +28,11 @@ defaultContentLanguageInSubdir = true
         url = "/fr/results"
         weight = 30
       [[languages.fr.menu.main]]
+        identifier = "membres"
+        name = "Membres"
+        url = "/fr/members"
+        weight = 30
+      [[languages.fr.menu.main]]
         name = "🇬🇧 en"
         weight = 99
         url = "../en"
@@ -51,6 +56,11 @@ defaultContentLanguageInSubdir = true
         name = "Results"
         weight = 30
         url = "/en/results"
+      [[languages.en.menu.main]]
+        identifier = "members"
+        name = "Members"
+        url = "/en/members"
+        weight = 30
       [[languages.en.menu.main]]
         name = "🇫🇷 fr"
         weight = 99
