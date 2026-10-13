@@ -15,6 +15,13 @@
       <description>&lt;p style=&#34;text-align: center&#34;&gt;&#xD;&#xA;&lt;a href=&#34;https://SHARE-Math-Vives.github.io/fr/&#34;&gt; &lt;img src=&#34;https://SHARE-Maths-Vives.github.io/images/logo/logo-SHARE.svg&#34; width=&#34;30%&#34;&gt; &lt;/a&gt;&#xD;&#xA;&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;The SHARE project vise à&amp;hellip;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;XXX&lt;/p&gt;&#xA;&lt;p style=&#34;text-align: center;color: gray;&#34;&gt;&#xD;&#xA;&lt;img src=&#34;https://SHARE-Maths-Vives.github.io/images/logo/logo-SHARE.svg&#34; width=&#34;10%&#34;&gt; &lt;/br&gt;&#xD;&#xA;We need to make a better logo&#xD;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Membres</title>
+      <link>https://SHARE-Maths-Vives.github.io/fr/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://SHARE-Maths-Vives.github.io/fr/members/</guid>
+      <description>&lt;style&gt;&#xA;.membres {&#xA;  display: grid;&#xA;  grid-template-columns: 1fr 1fr;&#xA;  gap: 1.5rem 2rem;&#xA;}&#xA;.membre {&#xA;  display: flex;&#xA;  align-items: center;&#xA;  gap: 1rem;&#xA;}&#xA;.membre img {&#xA;  width: 90px;&#xA;  height: 90px;&#xA;  object-fit: cover;&#xA;  border-radius: 50%;&#xA;  flex-shrink: 0;&#xA;}&#xA;.membre p {&#xA;  margin: 0;&#xA;}&#xA;@media (max-width: 600px) {&#xA;  .membres { grid-template-columns: 1fr; }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h2 id=&#34;coordination&#34;&gt;Coordination&lt;/h2&gt;&#xA;&lt;div class=&#34;membres&#34;&gt;&#xA;&lt;div class=&#34;membre&#34;&gt;&#xA;  &lt;img src=&#34;https://SHARE-Maths-Vives.github.io/images/photo/juliette.jpeg&#34; alt=&#34;Juliette LEGRAND&#34;&gt;&#xA;  &lt;p&gt;&lt;strong&gt;Juliette LEGRAND&lt;/strong&gt; — Maîtresse de conférences en statistique à l’Université de Brest (UBO) et membre du Laboratoire de mathématiques de Bretagne Atlantique (LMBA).&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Resultats</title>
       <link>https://SHARE-Maths-Vives.github.io/fr/results/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

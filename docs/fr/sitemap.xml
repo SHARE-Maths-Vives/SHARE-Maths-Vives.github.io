@@ -26,6 +26,18 @@
                 href="https://SHARE-Maths-Vives.github.io/fr/project/"
                 />
   </url><url>
+    <loc>https://SHARE-Maths-Vives.github.io/fr/members/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SHARE-Maths-Vives.github.io/en/members/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SHARE-Maths-Vives.github.io/fr/members/"
+                />
+  </url><url>
     <loc>https://SHARE-Maths-Vives.github.io/fr/results/</loc>
     <xhtml:link
                 rel="alternate"
