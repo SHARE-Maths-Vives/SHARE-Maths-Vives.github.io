@@ -1,5 +1,5 @@
 ---
-title: "Membres"
+title: "Membres du projet SHARE"
 slug: members
 output: pdf_document
 ---
