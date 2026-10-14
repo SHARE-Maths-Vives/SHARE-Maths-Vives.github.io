@@ -31,7 +31,12 @@ defaultContentLanguageInSubdir = true
         identifier = "membres"
         name = "Membres"
         url = "/fr/members"
-        weight = 30
+        weight = 40
+      [[languages.fr.menu.main]]
+        identifier = "intranet"
+        name = "Intranet"
+        url = "/fr/intranet"
+        weight = 50
       [[languages.fr.menu.main]]
         name = "🇬🇧 en"
         weight = 99
@@ -60,7 +65,7 @@ defaultContentLanguageInSubdir = true
         identifier = "members"
         name = "Members"
         url = "/en/members"
-        weight = 30
+        weight = 40
       [[languages.en.menu.main]]
         name = "🇫🇷 fr"
         weight = 99
