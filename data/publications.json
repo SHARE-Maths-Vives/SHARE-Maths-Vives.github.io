@@ -1,0 +1,112 @@
+[
+  {
+    "title": "A duration-augmented binary Markov chain for rainfall occurrence with long dry spells",
+    "authors": "Antoine Doizé; Denis Allard; Philippe Naveau; Olivier Wintenberger",
+    "year": "2026",
+    "journal": "",
+    "doi": "",
+    "hal_url": "https://hal.science/hal-05616955v1",
+    "type": "UNDEFINED",
+    "conference": "",
+    "book": ""
+  },
+  {
+    "title": "A parsimonious tail compliant multiscale statistical model for aggregated rainfall",
+    "authors": "Pierre Ailliot; Carlo Gaetan; Philippe Naveau",
+    "year": "2026",
+    "journal": "Advances in Water Resources",
+    "doi": "",
+    "hal_url": "https://hal.science/hal-05457346v1",
+    "type": "ART",
+    "conference": "",
+    "book": ""
+  },
+  {
+    "title": "Stochastic generator of trajectories from record data: application to the fluctuations of a glacier's frontal position from a sample of moraines",
+    "authors": "Maud Megret; Mike Pereira; Nicolas Eckert; Naveau Philippe; Vincent Jomelli",
+    "year": "2026",
+    "journal": "",
+    "doi": "",
+    "hal_url": "https://hal.science/hal-05620754v1",
+    "type": "UNDEFINED",
+    "conference": "",
+    "book": ""
+  },
+  {
+    "title": "Likelihood-Free Inference for Multivariate Generalized Pareto Models",
+    "authors": "Samira Aka; Marie Kratz; Philippe Naveau",
+    "year": "2026",
+    "journal": "",
+    "doi": "",
+    "hal_url": "https://hal.science/hal-05633438v1",
+    "type": "UNDEFINED",
+    "conference": "",
+    "book": ""
+  },
+  {
+    "title": "Benchmark of Likelihood-Free Inference Methods based on Neural and Optimal Transport Approaches",
+    "authors": "Samira Aka; Marie Kratz; Philippe Naveau",
+    "year": "2026",
+    "journal": "",
+    "doi": "",
+    "hal_url": "https://hal.science/hal-05639283v1",
+    "type": "UNDEFINED",
+    "conference": "",
+    "book": ""
+  },
+  {
+    "title": "A stochastic generator of continuous hourly areal rainfall series applied to a wide range of French catchments; Générateur stochastique de pluies de bassin horaires continues appliqué à un large échantillon de bassins versants français",
+    "authors": "Patrick Arnaud; Philippe Cantet",
+    "year": "2025",
+    "journal": "",
+    "doi": "",
+    "hal_url": "https://hal.science/hal-05547377v1",
+    "type": "POSTER",
+    "conference": "SWGEN 2025 - Conference on Stochastic Weather Generators",
+    "book": ""
+  },
+  {
+    "title": "GRAFFAS: A Stochastic Space-Time Model for High-Resolution Hourly Rainfall Fields",
+    "authors": "Philippe Cantet; Patrick Arnaud; Benjamin Renard",
+    "year": "2025",
+    "journal": "",
+    "doi": "",
+    "hal_url": "https://hal.science/hal-05404973v1",
+    "type": "POSTER",
+    "conference": "SWGEN 2025",
+    "book": ""
+  },
+  {
+    "title": "Integrating non-stationarity and uncertainty in design life levels based on climatological time series",
+    "authors": "Occitane Barbaux; Philippe Naveau; Nathalie Bertrand; Aurélien Ribes",
+    "year": "2025",
+    "journal": "Weather and Climate Extremes",
+    "doi": "10.1016/j.wace.2025.100807",
+    "hal_url": "https://hal.science/hal-05267687v2",
+    "type": "ART",
+    "conference": "",
+    "book": ""
+  },
+  {
+    "title": "Evaluation of binary classifiers for asymptotically dependent and independent extremes",
+    "authors": "Juliette Legrand; Philippe Naveau; Marco Oesting",
+    "year": "2025",
+    "journal": "Journal of the American Statistical Association",
+    "doi": "10.1080/01621459.2025.2529024",
+    "hal_url": "https://hal.science/hal-04075543v2",
+    "type": "ART",
+    "conference": "",
+    "book": ""
+  },
+  {
+    "title": "Causal Discovery in Multivariate Extremes: A Study of Swiss Hydrological Catchments",
+    "authors": "L. Mhalla; V. Chavez‐demoulin; Philippe Naveau",
+    "year": "2025",
+    "journal": "Environmetrics",
+    "doi": "10.1002/env.70034",
+    "hal_url": "https://hal.science/hal-05237149v1",
+    "type": "ART",
+    "conference": "",
+    "book": ""
+  }
+]

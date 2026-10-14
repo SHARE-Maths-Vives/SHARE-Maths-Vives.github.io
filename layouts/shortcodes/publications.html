@@ -1,0 +1,31 @@
+{{ $publications := .Site.Data.publications }}
+
+<div class="publications-list">
+  
+  {{ range $publications }}
+
+<div class="publication">
+  
+  <p>
+  <strong>{{ .year }}</strong> —
+{{ .authors }}.
+<em>{{ .title }}</em>.
+
+{{ with .journal }}
+{{ . }}.
+{{ end }}
+
+{{ with .doi }}
+<a href="https://doi.org/{{ . }}">DOI</a>
+  {{ end }}
+
+{{ with .hal_url }}
+| <a href="{{ . }}">HAL</a>
+  {{ end }}
+</p>
+  
+  </div>
+  
+  {{ end }}
+
+</div>

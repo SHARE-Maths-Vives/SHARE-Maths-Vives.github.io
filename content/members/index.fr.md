@@ -58,7 +58,7 @@ output: pdf_document
 </div>
 <div class="membre">
   <img src="/images/logo/logo-SHARE.png" alt="Philippe CANTET">
-  <p><strong>Philippe CANTET</strong> —  xxxx.</p>
+  <p><strong>Philippe CANTET</strong> —  Ingénieur de recherche en climatologie à Météo-France.</p>
 </div>
 <div class="membre">
   <img src="/images/logo/logo-SHARE.png" alt="Coline FOURNIER">
