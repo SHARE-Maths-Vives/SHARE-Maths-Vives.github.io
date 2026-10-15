@@ -56,8 +56,8 @@ slug: "members"
   <p><strong>Patrick ARNAUD</strong> —  Research engineer in hydrology at INRAE Aix-en-Provence and member of the RECOVER unit.</p>
 </div>
 <div class="membre">
-  <img src="/images/logo/logo-SHARE.png" alt="Philippe CANTET">
-  <p><strong>Philippe CANTET</strong> —  Research Engineer in Climatology at Météo-France.</p>
+  <img src="/images/photo/Photo_PhilippeC.jpeg" alt="Philippe CANTET">
+  <p><strong>Philippe CANTET</strong> —  Climate engineer at Météo-France within the Direction de la Climatologie et des Services Climatiques (DCSC/EMA).</p>
 </div>
 <div class="membre">
   <img src="/images/logo/logo-SHARE.png" alt="Coline FOURNIER">

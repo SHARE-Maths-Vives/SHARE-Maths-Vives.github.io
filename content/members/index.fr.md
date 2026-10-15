@@ -57,8 +57,8 @@ output: pdf_document
   <p><strong>Patrick ARNAUD</strong> —  Ingénieur de recherche en hydrologie à l'INRAE Aix-en-Provence et membre de l’unité RECOVER.</p>
 </div>
 <div class="membre">
-  <img src="/images/logo/logo-SHARE.png" alt="Philippe CANTET">
-  <p><strong>Philippe CANTET</strong> —  Ingénieur de recherche en climatologie à Météo-France.</p>
+  <img src="/images/photo/Photo_PhilippeC.jpeg" alt="Philippe CANTET">
+  <p><strong>Philippe CANTET</strong> —  Ingénieur climatologue à Météo-France au sein de la Direction de la Climatologie et des Services Climatiques (DCSC/EMA).</p>
 </div>
 <div class="membre">
   <img src="/images/logo/logo-SHARE.png" alt="Coline FOURNIER">
